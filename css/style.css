@@ -1,0 +1,46 @@
+* { 
+    box-sizing: border-box;
+    margin: auto auto;
+    padding: 0;
+    text-decoration: none;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #F2F2F2;
+}
+h1 {
+    font-size: 25px;
+    color: #1f314F;
+    text-align: center;
+    padding: 20px 5px;
+}
+h3{
+    font-size: 15px;
+    color: #7D889E;
+   
+    line-height: 19px;
+
+    text-align: center;
+    /* border: 3px solid green; */
+    padding: 10px 10px;
+}
+
+.card {
+    background-color: white;
+    border: 10px solid white;
+    border-radius: 20px;
+    width: 320px;
+    
+    padding: 0 6px;
+    overflow: hidden;
+
+
+}
+img {
+    width: 100%;
+    border-radius: 10px;
+  
+}
